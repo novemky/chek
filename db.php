@@ -1,9 +1,9 @@
 <?php
 // Database connection
 $host = 'localhost';
-$user = 'root'; // Adjust as needed
-$password = '';
-$database = 'crud_app';
+$user = 'cheky'; // Adjust as needed
+$password = 'estupa';
+$database = 'crud';
 
 $conn = new mysqli($host, $user, $password, $database);
 
