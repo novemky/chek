@@ -2,7 +2,7 @@
 // Database connection
 $host = 'localhost';
 $user = 'cheky'; // Adjust as needed
-$password = 'estupa';
+$password = 'cheky';
 $database = 'crud';
 
 $conn = new mysqli($host, $user, $password, $database);
